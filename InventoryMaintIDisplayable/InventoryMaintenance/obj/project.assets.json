@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vampi\\Utilities\\Desktop\\School\\Fall 2021\\5. Contemporary Programming\\3.Interfaces\\InventoryMaintIDisplayable\\InventoryMaintenance\\InventoryMaintenance.csproj",
+      "projectUniqueName": "C:\\Users\\Vampi\\Utilities\\Desktop\\School\\Fall 2021\\5. Contemporary Programming\\3.Interfaces\\InventoryMaintIDisplayable\\InventoryMaintIDisplayable\\InventoryMaintenance\\InventoryMaintenance.csproj",
       "projectName": "InventoryMaintenance",
-      "projectPath": "C:\\Users\\Vampi\\Utilities\\Desktop\\School\\Fall 2021\\5. Contemporary Programming\\3.Interfaces\\InventoryMaintIDisplayable\\InventoryMaintenance\\InventoryMaintenance.csproj",
+      "projectPath": "C:\\Users\\Vampi\\Utilities\\Desktop\\School\\Fall 2021\\5. Contemporary Programming\\3.Interfaces\\InventoryMaintIDisplayable\\InventoryMaintIDisplayable\\InventoryMaintenance\\InventoryMaintenance.csproj",
       "packagesPath": "C:\\Users\\Vampi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vampi\\Utilities\\Desktop\\School\\Fall 2021\\5. Contemporary Programming\\3.Interfaces\\InventoryMaintIDisplayable\\InventoryMaintenance\\obj\\",
+      "outputPath": "C:\\Users\\Vampi\\Utilities\\Desktop\\School\\Fall 2021\\5. Contemporary Programming\\3.Interfaces\\InventoryMaintIDisplayable\\InventoryMaintIDisplayable\\InventoryMaintenance\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vampi\\AppData\\Roaming\\NuGet\\NuGet.Config",
