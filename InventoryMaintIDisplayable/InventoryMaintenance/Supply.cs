@@ -5,7 +5,7 @@ using System.Text;
 //Kelli Porter
 namespace InventoryMaintenance
 {
-    public class Supply : InvItem
+    public class Supply : InvItem, IDisplayable
     { 
         public Supply() { }
 
