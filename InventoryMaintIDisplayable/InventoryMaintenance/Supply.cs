@@ -5,7 +5,7 @@ using System.Text;
 namespace InventoryMaintenance
 {
     public class Supply : InvItem
-    {
+    { 
         public Supply() { }
 
         public Supply(int itemNo, string description, decimal price, string manufacturer) :
@@ -16,7 +16,7 @@ namespace InventoryMaintenance
 
         public string Manufacturer { get; set; }
 
-        public override string GetDisplayText() =>
-            $"{ItemNo}    {Manufacturer} {Description} ({Price:c})";
+        //public override string GetDisplayText() =>
+        //    $"{ItemNo}    {Manufacturer} {Description} ({Price:c})";
     }
 }

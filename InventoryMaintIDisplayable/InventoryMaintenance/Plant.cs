@@ -4,7 +4,7 @@ using System.Text;
 
 namespace InventoryMaintenance
 {
-    public class Plant : InvItem
+    public class Plant : InvItem , IDisplayable
     {
         public Plant() { }
 
@@ -16,7 +16,7 @@ namespace InventoryMaintenance
 
         public string Size { get; set; }
 
-        public override string GetDisplayText() => 
-            $"{ItemNo}    {Size} {Description} ({Price:c})";
+        //public override string GetDisplayText() => 
+        //    $"{ItemNo}    {Size} {Description} ({Price:c})";
     }
 }
