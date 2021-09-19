@@ -4,7 +4,8 @@ using System.Text;
 
 namespace InventoryMaintenance
 {
-    class IDisplayable
+    public interface IDisplayable
     {
+        string GetDisplayText();
     }
 }
