@@ -28,4 +28,18 @@
         <Price>89.95</Price>
         <Size>15 gallon</Size>
     </Item>
+    <Item>
+        <Type>Plant</Type>
+        <ItemNo>6666666</ItemNo>
+        <Description>flower</Description>
+        <Price>8.33</Price>
+        <Size>1 gallon</Size>
+    </Item>
+    <Item>
+        <Type>Supply</Type>
+        <ItemNo>44323423</ItemNo>
+        <Description>thing</Description>
+        <Price>6.66</Price>
+        <Manufacturer>Roundup</Manufacturer>
+    </Item>
 </Items>

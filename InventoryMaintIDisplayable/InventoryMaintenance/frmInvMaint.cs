@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -44,6 +45,9 @@ namespace InventoryMaintenance
             if (invItem != null)
             {
                 invItems += invItem;
+                Debug.WriteLine($"Item type: {invItem.GetType()}"); 
+                Debug.WriteLine($"Item is InvItem: {invItem is InvItem}"); 
+                Debug.WriteLine($"Item is IDisplayable: {invItem is IDisplayable}");
             }
         }
 
